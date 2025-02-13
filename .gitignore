@@ -1,0 +1,22 @@
+# # Created by venv; see https://docs.python.org/3/library/venv.html
+
+# qodo
+# bin
+# lib
+# include
+# share
+# pyvenv.cfg
+# extract_data.py
+
+
+# Ignore virtual environment (if named 'venv' or similar)
+venv/
+.qodo
+bin/
+lib/
+include/
+share/
+pyvenv.cfg
+
+# Ignore specific Python script
+extract_data.py
